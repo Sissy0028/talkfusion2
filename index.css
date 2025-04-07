@@ -8,7 +8,7 @@ body{
 .sub{
     background-color: red;
     width: 90px;
-    height: 30px;
+    height: 40px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -20,7 +20,7 @@ body{
 .but{
     background-color: blue;
     width: 90px;
-    height: 30px;
+    height: 40px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
