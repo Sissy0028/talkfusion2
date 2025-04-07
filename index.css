@@ -7,7 +7,7 @@ body{
 }
 .sub{
     background-color: red;
-    width: 80px;
+    width: 90px;
     height: 30px;
     border: none;
     border-radius: 5px;
@@ -19,7 +19,7 @@ body{
 }
 .but{
     background-color: blue;
-    width: 80px;
+    width: 90px;
     height: 30px;
     border: none;
     border-radius: 5px;
